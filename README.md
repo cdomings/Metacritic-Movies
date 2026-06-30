@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was completed as the capstone assignment for **DA320**. The goal of the assignment was to create a portfolio-quality Jupyter Notebook that demonstrates the ability to acquire, clean, merge, analyze, and visualize real-world movie data.
+This project was completed as an assignment for **DA320**. The goal of the assignment was to create a portfolio-quality Jupyter Notebook that demonstrates the ability to acquire, clean, merge, analyze, and visualize real-world movie data.
 
 For this project, I selected the year **2008** and analyzed movie data from both **IMDB** and **Metacritic**. The two datasets were retrieved from MongoDB, merged using Pandas, and analyzed using regression modeling and machine learning sentiment analysis.
 
