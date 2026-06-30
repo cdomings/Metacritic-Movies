@@ -109,27 +109,6 @@ The analysis of 2008 movie data produced several interesting findings:
 * There were more movies with negative sentiment scores than positive sentiment scores. Only three movies in the dataset had positive sentiment scores.
 
 
-## Technologies Used
-
-* Python
-* Jupyter Notebook
-* MongoDB
-* Pandas
-* Statsmodels
-* Hugging Face Transformers
-* Matplotlib
-* Seaborn
-
-## Project Files
-
-The main project file is:
-
-```text
-Li - Machine Learning Midterm.ipynb
-```
-
-This notebook contains the full data pipeline, analysis, machine learning sentiment classification, charts, and conclusion.
-
 ## How to Run the Notebook
 
 1. Clone this repository.
